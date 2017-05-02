@@ -11,3 +11,5 @@
 *Thumbs.db
 *.sass-cache*
 *~imageoptim*
+.idea/
+wp-content/languages/
